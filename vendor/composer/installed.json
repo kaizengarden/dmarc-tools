@@ -1,0 +1,46 @@
+[
+    {
+        "name": "solaris/php-dmarc",
+        "version": "v1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/solarissmoke/php-dmarc.git",
+            "reference": "dc39f4fa331c3c6f0da069bca69b0ff7ff2c3a79"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/solarissmoke/php-dmarc/zipball/dc39f4fa331c3c6f0da069bca69b0ff7ff2c3a79",
+            "reference": "dc39f4fa331c3c6f0da069bca69b0ff7ff2c3a79",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-09-26 04:14:50",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Solaris": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Samir Shah",
+                "email": "samir@rayofsolaris.net",
+                "role": "Source files"
+            }
+        ],
+        "description": "A simple DMARC report parser for PHP.",
+        "homepage": "http://www.github.com/solarissmoke/php-dmarc",
+        "keywords": [
+            "dmarc",
+            "php"
+        ]
+    }
+]

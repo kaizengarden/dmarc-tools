@@ -1,0 +1,19 @@
+{
+    "name": "dmarc-tools",
+    "type": "library",
+    "description": "DMARC Tools",
+    "keywords": ["mail","dmarc"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacques Marneweck",
+            "email": "jacques@siberia.co.za",
+            "homepage": "http://www.jacquesmarneweck.com/",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "solaris/php-dmarc": "*"
+    }
+}
